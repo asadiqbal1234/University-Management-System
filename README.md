@@ -34,18 +34,31 @@ As a result, a faculty account’s sole function is to keep track of attendance.
 
 These are the steps on how to run a University Management System In PHP FREE Download
 •	Step 1: Download Source Code
+
 First, find the downloadable source code below and click to start downloading the source code file.
+
 •	Step 2: Extract File
+
 Next, after finished to download the file, go to file location and right click the file and click extract.
+
 •	Step 3: Copy Project Folder
+
 Next, copy the project folder and paste it to C:\xampp\htdocs.
+
 •	Step 4: Open Xampp
+
 Next, open xampp and start the apache and mysql.
+
 •	Step 5: Create Database
+
 Next, click any browser and type to the URL localhost/phpmyadmin and create database.
+
 •	Step 6: Import Database
+
 Next, click the created database and click import to the right tab and click choose file and import the sql file inside the download folder.
+
 •	Step 7: Execute Project
+
 Final, type to the URL localhost/ums
 
 # Project Output
